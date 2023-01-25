@@ -1,0 +1,34 @@
+Collections Framework   |---> Collection Interface  |---> List      |---> ArrayList
+                                                                    |
+                                                                    |---> LinkedList
+                                                                    |
+                                                                    |---> Stack
+                                                                    |
+                                                                    |---> Queue
+                                                       
+                                                    |---> Set       |---> EnumSet
+                                                                    |
+                                                                    |---> HashSet
+                                                                    |
+                                                                    |---> LinkedHashSet
+                                                                    |
+                                                                    |---> TreeSet
+                                                    
+                                                    |---> Queue     |---> ArrayDeque
+                                                                    |
+                                                                    |---> LinkedList
+                                                                    |
+                                                                    |---> PriorityQueue
+                        
+                        |---> Map Interface         |---> HashMap
+                                                    |
+                                                    |---> TreeMap
+                                                    |
+                                                    |---> EnumMap
+                                                    |
+                                                    |---> LinkedHashMap
+                                                    |
+                                                    |---> WeakHashMap        
+                                                
+                        |---> Iterator Interface    |--->ListIterator
+
